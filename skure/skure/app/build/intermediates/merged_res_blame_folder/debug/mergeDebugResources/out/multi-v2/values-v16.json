@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.skure.app-mergeDebugResources-59:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vinus\\.gradle\\caches\\8.13\\transforms\\e647189336a0f329d2f4207fc1e9feaa\\transformed\\appcompat-1.1.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}
